@@ -29,7 +29,7 @@ My project gives people a more secure way to hold others accountable. At the con
 ## Documents
 
 - [concept.md](R01.concept.proposal.md) 
-- <requirements.md>
+- [requirements.md](requirements.md)
 
 ## Acknowledgments
 
