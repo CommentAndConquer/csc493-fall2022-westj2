@@ -7,7 +7,7 @@
 - Priority: Essential
 - Requirement revision history: 
 
-- Number: 2
+-  Number: 2
 - Statement: Must be able to ask user for authentication
 - Evaluation Method: A prompt for authentication is presented during relevant actions
 - Dependency: None
@@ -21,9 +21,30 @@
 - Priority: Essential
 - Requirement revision history: 
 
-- Number: (List unique requirement number.)
-- Statement: (Precisely state the requirement.)
-- Evaluation Method: (How can you tell if the completed software satisfies this requirement?)
-- Dependency: (List each other requirement on which satisfaction of this requirement depends or write "None")
+- Number: 4
+- Statement: Must have a video gallery
+- Evaluation Method: Testing on Android. Videos can be selected, viewed, and deleted.
+- Dependency: recording
+- Priority: Essential
+- Requirement revision history: 
+
+- Number: 5
+- Statement: Records while screen is off/device is locked
+- Evaluation Method: Testing on Android.
+- Dependency: recording, authentication
+- Priority: high
+- Requirement revision history: 
+
+- Number: 6
+- Statement: auto backup video to the cloud while recording
+- Evaluation Method: Testing on Android. Test with some cloud storage service.
+- Dependency: Recording, Gallery
+- Priority: high
+- Requirement revision history: 
+
+- Number: 7
+- Statement: watermark/authenticate video 
+- Evaluation Method: Testing recordings and analyzing videos
+- Dependency: recording, gallery
 - Priority: (Assign a priority to this requirement: essential, high, middle, low, or if time permits.)
-- Requirement revision history: (when, what, and why)
+- Requirement revision history: 
