@@ -1,7 +1,7 @@
 # *CamLock*
-## App designed to preserve a recording session during interactions as well as the resulting video
+## Purpose
 
-Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
+App designed to preserve a recording session during interactions as well as the resulting video
 
 ### Scope 
 
@@ -13,12 +13,11 @@ My project gives people a more secure way to hold others accountable. At the con
 
 ### Prerequisites
 
-- Intellij IDEA
+- Android Studio
 - Android Emulator
 
 ## Built With
 
-- [Intellij IDEA](http://www.aframework1.io/): A framework that is likly to be used goes here.
 - [Android Studio](http://www.aframework2.io/): A second framework that is likly to be used goes here.
 - IDE, if applicable
 
